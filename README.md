@@ -70,14 +70,14 @@ Skill docs and ticket docs cross-reference each other.
 
 ## Ticketing System
 
-All tickets are raised and resolved in TBD. The `ticketing-setup.md` file covers how the environment was configured — groups, ticket categories, priorities, and status workflow.
+All tickets are raised and resolved in one of the three ticketing systems. The `<ticketing-service>-setup.md` file covers how the environment was configured — groups, ticket categories, priorities, and status workflow.
 
 
 ---
 
 ## Tools & Environment
 
-- **Ticketing:** TBD
+- **Ticketing:** Freshdesk, ServiceNow, Jira Service Management
 - **Virtualisation:** VirtualBox
 - **OS:** Windows 11, Windows Server 2022
 - **Directory:** Active Directory (lab domain `lab.local`)
