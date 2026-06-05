@@ -37,7 +37,10 @@ This is also a deliberate response to a common gap in IT job applications: havin
 ```
 it-support-lab/
 ├── README.md
-├── ticketing-setup.md              # Freshdesk configuration and workflow overview
+├── ticketing/
+│   ├── freshdesk-setup.md
+│   ├── servicenow-setup.md
+│   └── jira-setup.md            # Freshdesk, ServiceNow and Jira Service Management setup
 ├── sections/
 │   ├── 01-os-installations/
 │   │   ├── README.md               # Section overview
