@@ -10,7 +10,7 @@ The goal isn't just to follow a course. It's to simulate what first-line IT supp
 
 Most IT support courses teach you *what* to do. This project focuses on *how it looks in practice* — tickets raised, steps taken, and resolutions recorded in the same way a real support team would expect.
 
-Each topic from the course maps to a ticket in Freshdesk. The skill documentation covers the technical steps; the ticket covers the user-facing scenario. Together they form a complete picture of both the technical knowledge and the support workflow behind it.
+Each topic from the course maps to a ticket in one of the ticketing systems. The skill documentation covers the technical steps; the ticket covers the user-facing scenario. Together they form a complete picture of both the technical knowledge and the support workflow behind it.
 
 This is also a deliberate response to a common gap in IT job applications: having theoretical knowledge but no evidence of working within a support process. This lab is the evidence.
 
