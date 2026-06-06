@@ -61,9 +61,7 @@ Each section folder follows the same pattern:
 
 - **`skills/`** — step-by-step documentation of the technical skill as performed in the lab
 - **`tickets/`** — a realistic user request that exercises that skill, with diagnosis and resolution steps recorded
-- **`README.md`** — section overview, skills covered, and tickets raised
-
-Skill docs and ticket docs cross-reference each other.
+- **`screenshots/`** - screenshots of the tickets in respective ticket software 
 
 ---
 
