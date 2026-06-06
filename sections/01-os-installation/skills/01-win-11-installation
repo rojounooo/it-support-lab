@@ -35,3 +35,5 @@
 >**Note**: If the device has multiple disks installed they will appear
 
 ### 5. Local User Creation 
+- Confirm Country/Region and Keyboard layout
+- Join via domain to skip Microsoft account login

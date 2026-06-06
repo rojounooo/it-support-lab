@@ -43,7 +43,6 @@ it-support-lab/
 │   └── jira-setup.md            # Freshdesk, ServiceNow and Jira Service Management setup
 ├── sections/
 │   ├── 01-os-installations/
-│   │   ├── README.md               # Section overview
 │   │   ├── skills/                 # Technical how-to documentation
 │   │   │   └── install-windows-11.md
 │   │   └── tickets/                # Simulated support tickets with resolutions
