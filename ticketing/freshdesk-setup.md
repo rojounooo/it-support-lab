@@ -46,7 +46,7 @@ You can create additional contacts for different ticket scenarios if needed, but
 
 | Field | Value |
 |-------|-------|
-| **Requester** | Select the contact you created (e.g. Jane Smith) |
+| **Contact** | Select the contact you created (e.g. Jane Smith) |
 | **Subject** | Short description of the issue, e.g. `Windows 11 installation required on new device` |
 | **Type** | Select the most appropriate type from the dropdown |
 | **Priority** | Set based on user impact (Low / Medium / High / Urgent) |
