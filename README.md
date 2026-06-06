@@ -44,7 +44,7 @@ it-support-lab/
 ├── sections/
 │   ├── 01-os-installations/
 │   │   ├── skills/                 # Technical how-to documentation
-│   │   │   └── install-windows-11.md
+│   │   │   └── install-win11.md
 │   │   └── tickets/                # Simulated support tickets with resolutions
 │   │       └── TKT-001.md
 │   ├── 02-cli-and-gui-tools/
