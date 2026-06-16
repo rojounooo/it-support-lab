@@ -4,7 +4,6 @@
 
 ## Overview
 This section covers: 
-- Windows Security Controls
 - Configure Windows Defender Antivirus 
 - Configure Windows Firewall with Advanced Security 
 - Manage Local User Accounts 
