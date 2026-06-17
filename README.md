@@ -75,9 +75,7 @@ All tickets are raised and resolved in one of the three ticketing systems. The `
 ## Tools & Environment
 
 - **Ticketing:** Freshdesk, ServiceNow, Jira Service Management
-- **Virtualisation:** VirtualBox
-- **OS:** Windows 11, Windows Server 2022
-- **Directory:** Active Directory (lab domain `lab.local`)
+- **OS:** Windows 11
 - **Cloud:** Microsoft 365 Developer Tenant, Azure free tier
 
 ---
