@@ -60,7 +60,3 @@ Audit policies determine which security-related events are logged to the Securit
 > **Note:** Enabling **Audit account logon events** with **Failure** auditing is particularly useful for incident response — a spike in failed logon attempts for a specific account is a strong indicator of a brute-force attempt or a compromised credential being tested. These events appear in the Security log in Event Viewer and can be cross-referenced with the account lockout policy to understand the full picture of an attempted intrusion.
 
 ---
-
-## Related Ticket
-
-→ [TKT-018: Security baseline required on standalone device — password, lockout, and audit policy configuration](../tickets/TKT-018.md)
