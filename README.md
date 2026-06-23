@@ -28,7 +28,7 @@ This is also a deliberate response to a common gap in IT job applications: havin
 | 06 | Inventory & Asset Management Systems | Asset tracking, hardware audits, CMDB concepts |
 | 07 | Software Installation & Deployment | Manual installs, package managers, silent deployment |
 | 08 | Office 365 Administration | User provisioning, licensing, mailbox management, SharePoint basics |
-| 09 | Azure Management Skills | Azure AD, resource groups, virtual machines, RBAC |
+
 
 ---
 
@@ -53,8 +53,7 @@ it-support-lab/
 │   ├── 05-active-directory/
 │   ├── 06-asset-management/
 │   ├── 07-software-deployment/
-│   ├── 08-office-365/
-│   └── 09-azure/
+│   └── 08-office-365/
 ```
 
 Each section folder follows the same pattern:
