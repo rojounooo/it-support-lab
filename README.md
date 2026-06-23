@@ -39,8 +39,7 @@ it-support-lab/
 ├── README.md
 ├── ticketing/
 │   ├── freshdesk-setup.md
-│   ├── servicenow-setup.md
-│   └── jira-setup.md            # Freshdesk, ServiceNow and Jira Service Management setup
+│   └── jira-setup.md            # Freshdesk and Jira Service Management setup
 ├── sections/
 │   ├── 01-os-installations/
 │   │   ├── skills/                 # Technical how-to documentation
@@ -73,7 +72,7 @@ All tickets are raised and resolved in one of the three ticketing systems. The `
 
 ## Tools & Environment
 
-- **Ticketing:** Freshdesk, ServiceNow, Jira Service Management
+- **Ticketing:** Freshdesk, Jira Service Management
 - **OS:** Windows 11
 - **Cloud:** Microsoft 365 Developer Tenant, Azure free tier
 
