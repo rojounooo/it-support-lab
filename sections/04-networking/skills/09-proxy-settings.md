@@ -50,4 +50,4 @@ Once configured, test that traffic is routing through the proxy correctly:
 
 ## Related Ticket
 
-→ [TKT-021: User unable to access external websites — proxy configuration required](../tickets/TKT-021.md)
+→ [TKT-020: User unable to access external websites — proxy configuration required](../tickets/TKT-021.md)

@@ -72,4 +72,4 @@ A new virtual network adapter (e.g. a PPP adapter) should appear with an IP addr
 
 ## Related Ticket
 
-→ [TKT-019: Remote worker requires VPN access to connect securely to company resources](../tickets/TKT-019.md)
+→ [TKT-018: Remote worker requires VPN access to connect securely to company resources](../tickets/TKT-019.md)

@@ -33,4 +33,4 @@ From a second device on the same network:
 
 ## Related Ticket
 
-→ [TKT-020: User's device not visible to other machines on the network](../tickets/TKT-020.md)
+→ [TKT-019: User's device not visible to other machines on the network](../tickets/TKT-020.md)
