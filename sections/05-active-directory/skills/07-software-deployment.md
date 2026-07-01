@@ -82,7 +82,3 @@ gpresult /r
 The `Deploy Firefox` GPO should appear under **Applied Group Policy Objects**.
 
 ---
-
-## Related Ticket
-
-→ No dedicated ticket — software deployment via GPO is the enterprise method underpinning [TKT-026: Software required on all machines in a department](../tickets/TKT-026.md)
